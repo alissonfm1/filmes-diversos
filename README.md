@@ -13106,4 +13106,3 @@ https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/DBFILME03.mp4
 https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/DBFILME02.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2001%20-%20A%20Lenda%20De%20Shenlong.jpg" group-title="Dublados",Dragon Ball - Filme 01 - A Lenda de Shenlong (Dublado) - 1989 - 1080p
 https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/DBFILME01.mp4
-
